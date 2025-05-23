@@ -37,7 +37,7 @@ Basically, any message containing "zon't" or "zo" will increment the counter.
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/Abdalla-Eldoumani/
+   git clone https://github.com/Abdalla-Eldoumani/Discord-Bot.git
    cd discord-bot
    ```
 
